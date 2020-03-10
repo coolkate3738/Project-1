@@ -28,8 +28,9 @@ There is 1 notebook available to demostrate the  code used for this analysis.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@jpasecnika/an-insight-into-what-developers-really-say-33107acd38b5).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 The data used belongs to StackOVerflow and was obtained  from the following location [here](https://insights.stackoverflow.com/survey)
+or from this repo
